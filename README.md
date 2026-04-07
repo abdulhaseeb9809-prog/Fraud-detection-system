@@ -7,6 +7,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+https://your-app-name.streamlit.app
+
+---
+
 ## 📌 Overview
 
 This project is an AI-based fraud detection system designed to identify impersonation and fraudulent activities in digital environments.
