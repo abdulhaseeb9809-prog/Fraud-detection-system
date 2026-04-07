@@ -63,26 +63,6 @@ It provides a practical solution for improving security in applications such as 
 - **Streamlit**
 - **Natural Language Processing (TF-IDF)**
 
----
-
-## 📂 Project Structure
-
-
-fraud-detection-system/
-│
-├── app.py
-├── deepfake.weights.h5
-├── spam_model.pkl
-├── vectorizer.pkl
-│
-├── notebooks/
-│ ├── deepfake_model.ipynb
-│ └── spam_detection.ipynb
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 
 ---
 
