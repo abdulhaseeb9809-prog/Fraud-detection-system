@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-https://your-app-name.streamlit.app
+https://fraud-detection-system-csgzrfksxgogwjcixkmyau.streamlit.app/
 
 ---
 
