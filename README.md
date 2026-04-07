@@ -90,23 +90,44 @@ fraud-detection-system/
 
 ### 1. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-2. Run the Application
-streamlit run app.py
-🎯 Use Cases
-🏦 Banking fraud detection
-🧾 Customer onboarding verification
-🕵️ Identity impersonation detection
-📩 Spam message filtering
-⚠️ Note
-Full datasets are not included due to size constraints.
-This project demonstrates a working prototype of a fraud detection system.
-🔮 Future Enhancements
-🎥 Video-based deepfake detection
-🎙️ Voice fraud detection
-⚡ Real-time API integration
-📊 Advanced model optimization
-👨‍💻 Author
 
-Abdul Haseeb
+pip install -r requirements.txt
+
+
+### 2. Run the application
+
+
+streamlit run app.py
+
+
+---
+
+## 🎯 Use Cases
+
+- Banking fraud detection  
+- Customer onboarding verification  
+- Identity impersonation prevention  
+- Spam detection systems  
+
+---
+
+## ⚠️ Note
+
+- Full datasets are not included due to size constraints.
+- The project focuses on demonstrating core functionality and working prototype.
+
+---
+
+## 🔮 Future Improvements
+
+- Video-based deepfake detection  
+- Voice fraud detection  
+- Real-time API integration  
+- Improved model accuracy with larger datasets  
+
+---
+
+## 👨‍💻 Author
+
+**Abdul Haseeb**
+
